@@ -1,0 +1,18 @@
+1. How is the web different from the internet?
+  The internet is based in small global networks. They are in small areas, for example the internet signal in your house.
+  The web connects those networks together and is spread out through out the world.
+  
+2. Briefly discribe how the internet works.
+  the internet takes information from one IP address and send it to another using a router/ISP 
+  
+3. What is a directory and what is it relationship to files?
+  It is a system that stores files and catigorizes them alphabetically. An example of this is the This PC tab in your file explorer.
+
+4. Why is using VCS benifical?
+  It help us keep track of our changes in our projects. It gives the ablity to see why and when we changed things in our code. It can also help in group projects, to see what other people are doing to modify the project.
+
+
+Citations
+- “What's Difference between The Internet and The Web ?” GeeksforGeeks, 29 May 2017, www.geeksforgeeks.org/whats-difference-internet-web/.
+- YouTube, YouTube, www.youtube.com/watch?v=7_LPdttKXPc.
+- YouTube, YouTube, www.youtube.com/watch?v=8oRjP8yj2Wo.
