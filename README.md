@@ -1,2 +1,3 @@
-# web-dev-hw
-Repository for intro to web dev homework
+## Samantha Jacobson
+
+I like to read manga, watch anime, and my major is Media arts.
