@@ -1,0 +1,10 @@
+1. Briefly describe one way how data travels on the internet.
+      Data travels in packets from computer to the next. Packets turn the data into little pieces. Once the packet is received at its destination the pieces of the data are put together to create an image or message.
+2. What is the relationship between an IP address and the DNS?
+      The IP address is the name of computer/server and the DNS is pretty much the directory that categorized alphabetically with in the IP address.
+3. What is a cookie?
+      They are small text files stored in you browser's directory.
+4. List the three basic parts of a URL.
+    - Protocol
+    - Domain name
+    - Path
