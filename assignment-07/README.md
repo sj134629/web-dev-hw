@@ -1,7 +1,9 @@
 # Assignment 7
 ## Samantha jacobson
 
-- 1.Divs split the webpage into differnt parts. it creates sections and it is use as a container for html elements
+
+-
+  1.Divs split the webpage into differnt parts.  it creates sections and it is use as a container for html elements
   2.Classes give specifies things to certain parts of the code by using a specific name
   3.Ids value strings and help identify a specific element.
   4. Spans is just a group element that is within the divs. They help organize what is in the divs.
