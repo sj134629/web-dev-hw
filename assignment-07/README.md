@@ -3,11 +3,11 @@
 
 
 -
-  -Divs split the webpage into differnt parts.  it creates sections and it is use as a container for html elements
+  - Divs split the webpage into differnt parts.  it creates sections and it is use as a container for html elements
 
-  -Classes give specifies things to certain parts of the code by using a specific name
-  
-  -Ids value strings and help identify a specific element.
+  - Classes give specifies things to certain parts of the code by using a specific name
+
+  - Ids value strings and help identify a specific element.
 
   - Spans is just a group element that is within the divs. They help organize what is in the divs.
 - alt text is words or phrase that can be put into an attribe. We use it so we can style the webpage and make it our own.
