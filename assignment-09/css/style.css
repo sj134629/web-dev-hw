@@ -1,0 +1,47 @@
+body {
+  background-color: #000000;
+  text-align: center;
+}
+h1 {
+  color: #d9b3ff;
+  text-align: center;
+}
+h2 {
+  color: white;
+}
+
+img {
+  opacity: 0.8;
+}
+ p {
+   text-align: left;
+   color: white;
+ }
+
+.manga {
+text-align: center;
+width: 1000px;
+margin: auto;
+padding: 15px;
+color: white;
+
+}
+
+
+#fruit {
+  background-color: #ff884d;
+
+}
+
+#fairy {
+  background-color: #ff4d4d;
+}
+
+#vampire {
+  background-color: #dd99ff;
+}
+
+#ghoul {
+  background-color: #b3b3cc;
+}
+/*these are my colors*/
