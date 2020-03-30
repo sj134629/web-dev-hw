@@ -1,10 +1,11 @@
 # Assigment 8
 ## Samantha Jacobson
 
--  1. The universal selector is used when you use *. It styles every element on the page.
-2. The element selector is use to select certain element types. Life if you use h2 in style tag or css page it will change everything that uses h2.
-3. The class selector is put in an element to change specific things in that on element or as many element you want.
-4. id selector on change on specific element.
+-
+    1. The universal selector is used when you use *. It styles every element on the page.
+    2. The element selector is use to select certain element types. Life if you use h2 in style tag or css page it will change everything that uses h2.
+    3. The class selector is put in an element to change specific things in that on element or as many element you want.
+    4. id selector on change on specific element.
 
 - I wanted colors that were kind of associate with anime/manga's color scheme.
   1. First color is an light orange.
