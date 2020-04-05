@@ -2,7 +2,8 @@
 ## Samantha Jacobson
 
 
-  - 1. System fonts are already installed in the device that you are on.
+-
+   1. System fonts are already installed in the device that you are on.
    2. Web fonts are custom fonts that you can find on a website like google fonts.
    3. Web-safe fonts are font that devolopers count on being available. ex. "Times New Roman" and "Arial"
 -  The importance of having fallback fonts or fallback stack is to make the text not too jarring. It you have two completely different fonts it will make your text look bad unlike two fonts that are different but look similar.
