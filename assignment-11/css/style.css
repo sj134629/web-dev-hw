@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.nav {
+  background-color: black;
+  width: 200px;
+  height: 100%;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  line-height: 3em;
+  font-size: 1.5em;
+  color: white;
+font-family: 'Open Sans', sans-serif;
+}
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+ .main{
+   background-color: white;
+   margin-left: 200px;
+   margin-right: 100px;
+   padding: .5em;
+   overflow:auto;
+
+   font-family: 'Roboto', sans-serif;
+
+ }
+ .banner{
+   width: 100%;
+   height: auto;
+ }
+ h1 {
+   text-align: center;
+   font-family: 'Open Sans', sans-serif;
+
+ }
+ h2 {
+   text-align: center;
+   font-family: 'Open Sans', sans-serif;
+
+ }
+ .logo {
+   font-family: 'Open Sans', sans-serif;
+   background-color: gray;
+   width: 100px;
+   height: 100px;
+
+border-radius: 100%;
+
+   position:fixed;
+   top: 0;
+   right: 0;
+   margin: 1em;
+   text-align: center;
+   line-height: 4em;
+   font-size: 1.5em;
+
+ }
+ .social-icons {
+   background-color: black;
+   width: 300px;
+   height: 70px;
+
+   position: fixed;
+   bottom: 0;
+   right: 0;
+
+
+ }
+ a {
+   font-family: 'Open Sans', sans-serif;
+   color: white;
+   background-color: black;
+   padding: 5px;
+ }
+ a:hover {
+   font-family: 'Open Sans', sans-serif;
+   color: black;
+   background-color: #a6a6a6;
+ }
+
+ .logo a {
+   font-family: 'Open Sans', sans-serif;
+   color: white;
+   background-color: gray;
+   padding: 5px;
+ }
+ .logo a:hover {
+   font-family: 'Open Sans', sans-serif;
+   color: black;
+   background-color: #a6a6a6;
+ }
