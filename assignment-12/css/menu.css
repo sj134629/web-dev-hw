@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:ital@1&display=swap');
+/*---------------
+| Navigation Bar|
+---------------*/
+
+/* Menu container*/
+menu {
+  margin: 0;
+  padding: 1em;
+  background-color: red;
+  width: 968px;
+  height: 10px
+}
+
+/* top links */
+#site-links {
+  font-family: 'Montserrat', sans-serif;
+float: left;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+#site-links .menu-item {
+  width: 6em;
+  height: 30px;
+  padding: 1em, 1em;
+display: inline-block;
+float: left;
+  background-color: pink;
+text-decoration: none;
+  text-align: center;
+  color: black;
+}
+
+#site-links .menu-item:hover {
+  background-color: purple;
+  color: blue;
+  text-decoration: overline;
+  text-decoration-color: blue;
+  text-decoration-style: wavy;
+}
+/* Dropdown */
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+}
+#site-links .dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 5;
+  background-color: yellow;
+}
+#site-links .dropdown-content a {
+  color: black;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif, ;
+}
+#site-links .dropdown-content a:hover {
+  color: green;
+  font-weight: bold;
+}
+#site-links .dropdown:hover .dropdown-content {
+  display:block;
+}
+#site-links .dropdown-item {
+  min-width: 6em;
+  padding: .5em, 1em;
+  display: block;
+  text-align: center;
+}
+.dropdown-item:hover {
+  background-color: purple;
+  color: black;
+}
+
+/* Socail media account */
+#social-links {
+display: inline-block;
+padding: 0;
+float: right;
+background-color: pink;
+
+}
+#social-links .social-item {
+  margin: 5px;
+  background-color: pink;
+}
+#social-links img {
+  width: 25px;
+  height: 25px;
+  ;
+}
+#social-links:hover {
+  background-color: yellow;
+}
