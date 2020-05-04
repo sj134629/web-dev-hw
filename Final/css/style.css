@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500;600&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto&display=swap');
+body {
+
+/* background image */
+}
+#background-img {
+
+    background-image: url(../images/background1.jpg);
+
+}
+#background2-img {
+  background-image: url(../images/background2.jpg);
+}
+.back {
+  padding: 0;
+  margin: 0;
+  opacity: 5;
+
+}
+
+/* main div background color */
+.main {
+  background-color: #ffb3b3;
+  margin-left: 200px;
+  margin-right: 100px;
+
+  padding: 0em;
+  overflow: auto;
+  text-align: center;
+  color: white;
+
+}
+.main2 {
+  background-color: #ffbb99;
+  margin-left: 200px;
+  margin-right: 100px;
+
+  padding: 0em;
+  overflow: auto;
+  text-align: center;
+  color: white;
+
+}
+
+/* headers */
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-weight: normal;
+  font-style: oblique;
+  font-size: 3.5em;
+}
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+}
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  top: auto;
+  font-size: 1em;
+}
+
+/* tables */
+table {
+  overflow: auto;
+  color: #999999;
+  background-color:#ffcccc;
+  text-align: left;
+  padding: 1em;
+  width: 990px;
+
+}
+#table3 {
+  background-color:  #ffbb99;
+  overflow: auto;
+
+}
+
+/* copyright */
+#copyright{
+  font-size: 15px;
+}
+/* form with 3 elements and button */
+form {
+  font-family: 'Open Sans', sans-serif;
+
+}
+/* contact info */
+#address{
+  font-family: 'Open Sans', sans-serif;
+
+}
+address{
+  font-family: 'Open Sans', sans-serif;
+}
+#email {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+
+}
+#email a{
+  color: #999999;
+}
+#email a:hover{
+  color: white;
+}
+.links {
+  background-color: #ffbb99;
+  width: 100px;
+  padding: 1em;
+  color: white;
+}
+.links:hover {
+  text-decoration: none;
+  background-color: #99ffdd;
+  width: 100px;
+  padding: 1em;
+  color: black;
+  text-align: right;
+}
+.links a{
+  color: white;
+}
+.links a:hover{
+  color: #999999;
+}
+#links {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+
+}
+.social {
+  text-align:left;
+
+}
+
+/* Character gallery navigation */
+
+.left-link {
+  font-family: 'Open Sans', sans-serif;
+  width: 140px;
+  background-color:#ffbb99;
+  text-align: left;
+  padding: .5em;
+  color: #999999;
+}
+.left-link:hover {
+  font-family: 'Open Sans', sans-serif;
+  width: 140px;
+  background-color:#99ffdd;
+  text-align: left;
+  padding: .5em;
+  color: white;
+}
+.left-link a {
+color: #999999;
+}
+.left-link a:hover {
+color: white;
+}
+
+.right-link {
+  font-family: 'Open Sans', sans-serif;
+  width: 140px;
+ background-color:#ffbb99;
+ text-align: right;
+ padding: .5em;
+}
+.right-link:hover {
+  font-family: 'Open Sans', sans-serif;
+  width: 140px;
+ background-color:#99ffdd;
+ text-align: right;
+ padding: .5em;
+}
+.right-link a {
+color: #999999;
+}
+.right-link a:hover{
+color: white;
+}
+
+/* Gallery */
+.profile {
+  font-size: 1.3em;
+}
+.images a:hover {
+  opacity: .5;
+}
+
+/* About summary */
+#summary {
+  font-size: 1.5em;
+
+}
+
+
+#quote {
+  padding: 1em;
+}
